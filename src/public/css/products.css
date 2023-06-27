@@ -19,7 +19,7 @@ html {
 .box h1 {
     color: rgb(90, 142, 209);
 }
-.container{
+/* .container{
     margin-left: 200px;
     padding: 30px;
     box-shadow: 0 12px 16px rgba(0, 0, 0, 0.2);
@@ -28,7 +28,7 @@ html {
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
 .contenedor-cards{
     width: 100%;
 	padding: 20px;
@@ -56,8 +56,8 @@ html {
     box-shadow: 0 5px 10px white;
   }
 .card-img-top{
-    width: 220px;
-    height: 150px;
+    width: 280px;
+    height: 280px;
 }
 
 .card-text{
@@ -118,3 +118,4 @@ html {
     margin-left: 10px;
     margin-right: 10px;
 }
+
